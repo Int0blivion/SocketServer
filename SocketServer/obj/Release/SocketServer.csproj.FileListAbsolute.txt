@@ -1,0 +1,6 @@
+D:\Documents\C#\SocketServer\SocketServer\bin\Release\SocketServer.exe.config
+D:\Documents\C#\SocketServer\SocketServer\bin\Release\SocketServer.exe
+D:\Documents\C#\SocketServer\SocketServer\bin\Release\SocketServer.pdb
+D:\Documents\C#\SocketServer\SocketServer\obj\Release\SocketServer.csprojResolveAssemblyReference.cache
+D:\Documents\C#\SocketServer\SocketServer\obj\Release\SocketServer.exe
+D:\Documents\C#\SocketServer\SocketServer\obj\Release\SocketServer.pdb

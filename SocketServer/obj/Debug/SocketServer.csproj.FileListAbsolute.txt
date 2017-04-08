@@ -1,0 +1,9 @@
+D:\Documents\C#\SocketServer\SocketServer\bin\Debug\SocketServer.exe.config
+D:\Documents\C#\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+D:\Documents\C#\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+D:\Documents\C#\SocketServer\SocketServer\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache
+D:\Documents\C#\SocketServer\SocketServer\obj\Debug\SocketServer.exe
+D:\Documents\C#\SocketServer\SocketServer\obj\Debug\SocketServer.pdb
+D:\Documents\C#\SocketServer\SocketServer\bin\Debug\InputSimulator.dll
+D:\Documents\C#\SocketServer\SocketServer\bin\Debug\InputSimulator.pdb
+D:\Documents\C#\SocketServer\SocketServer\bin\Debug\InputSimulator.xml
